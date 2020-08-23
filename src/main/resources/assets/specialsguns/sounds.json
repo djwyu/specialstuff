@@ -1,0 +1,11 @@
+{
+  "musketfire_one": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "specialsguns:musketrifle1",
+        "stream": false
+      }
+    ]
+  }
+}

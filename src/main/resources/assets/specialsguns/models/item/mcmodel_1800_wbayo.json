@@ -1,0 +1,7 @@
+{
+  "parent": "specialsguns:custom/model1861riflev3wbayo",
+  "textures": {
+    "0": "specialsguns:blocks/model1861rmwithbayo",
+    "particle": "specialsguns:items/mcmukset1861wbayo"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "specialsguns:custom/model1861riflev3",
+  "textures": {
+    "0": "specialsguns:blocks/model1861rm",
+    "particle": "specialsguns:items/mcmukset1861"
+  }
+}

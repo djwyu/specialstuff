@@ -1,0 +1,145 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "MCMODEL1861RMRangedItemUsed",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mcmodel_1800_ranged_item_used",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MCMODEL1861RM",
+      "type": "gun",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mcmodel_1800"
+    },
+    {
+      "name": "MusketBallBleed",
+      "type": "procedure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "musket_ball_bleed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MusketBall",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "musket_ball"
+    },
+    {
+      "name": "MCMODEL1800WBAYO",
+      "type": "gun",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mcmodel_1800_wbayo"
+    },
+    {
+      "name": "BallCast75Activate",
+      "type": "procedure",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ball_cast_75_activate",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BallCast75",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ball_cast_75"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "musketfire_one",
+      "file": "musketrifle1",
+      "category": "player"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.specialsguns.ball_cast_75": "Ball Cast 7 5",
+      "item.specialsguns.musket_ball": "Musket Ball 75. Cal",
+      "item.specialsguns.mcmodel_1800_wbayo": "M.C Model 1800",
+      "item.specialsguns.mcmodel_1800": "M.C Model 1800"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "specialsguns",
+    "modName": "SpecialsGuns",
+    "version": "1.0.0",
+    "author": "Wyu, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.specialsguns",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}
